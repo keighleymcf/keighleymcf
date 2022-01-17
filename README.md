@@ -1,6 +1,6 @@
-### Oh hi 👋 I'm Keighley
+# Oh hi 👋 I'm Keighley
 
-## 👩🏻‍💻 Full-Stack Web Developer (she/her) building on a previous life in project management, communications, and research
+### 👩🏻‍💻 Full-Stack Web Developer (she/her) building on a previous life in project management, communications, and research
 
 🔧 I specialize in React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST API development, but I am always learning new skills and stacks 🧠
 
