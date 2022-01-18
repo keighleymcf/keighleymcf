@@ -31,7 +31,7 @@
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg" />
 
-<br/>
+<br/><br/>
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
