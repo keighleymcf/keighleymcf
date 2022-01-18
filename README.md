@@ -22,12 +22,10 @@
 <img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
-
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Cypress" width="26px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Storybook" width="26px" src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" />
-
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg" />
 
@@ -39,7 +37,6 @@
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
-
 <img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
