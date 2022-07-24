@@ -6,7 +6,7 @@
 
 💪🏾 Mentoring the next generation of power women* with WoMentor.
 
-🌍 Based in Vienna, Austria
+🌍 Based in Austria
 
 🎨 Interested in top-notch UX and UI
 
@@ -39,6 +39,12 @@
 <img align="left" alt="Gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+## My website
+https://keighleymcfarland.me/
+
+## Read some of my thoughts on Medium
+https://medium.com/@keighleymcf
 
 <!--
 **keighleymcf/keighleymcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
