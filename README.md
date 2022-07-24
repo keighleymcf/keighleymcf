@@ -40,11 +40,10 @@
 <img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-
-## My website
+<br/>
+## Links
 https://keighleymcfarland.me/
 
-## Read some of my thoughts on Medium
 https://medium.com/@keighleymcf
 
 <!--
