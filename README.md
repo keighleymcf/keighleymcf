@@ -15,11 +15,10 @@
 🏋🏼‍♀️ Most of my current work is proprietary so please reach out to me with specific questions or for current work samples!
 
 <br/>
-
 ## Links
-https://keighleymcfarland.me/
+My website: https://keighleymcfarland.me/
 
-https://medium.com/@keighleymcf
+My tech articles on Medium: https://medium.com/@keighleymcf
 
 ## Languages and Tools:
 
