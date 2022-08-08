@@ -6,13 +6,20 @@
 
 💪🏾 Mentoring the next generation of power women* with WoMentor.
 
-🌍 Based in Austria
+🌍 Currently based in Austria
 
 🎨 Interested in top-notch UX and UI
 
 🪦💾 My public Github profile is kind of a graveyard of old learning projects and online courses... But I generally try to keep it like the pretty part of the graveyard, you know with 💐 on the graves, someone sweeping away the 🍂, lighting a 🕯 now and then...
 
 🏋🏼‍♀️ Most of my current work is proprietary so please reach out to me with specific questions or for current work samples!
+
+<br/>
+
+## Links
+https://keighleymcfarland.me/
+
+https://medium.com/@keighleymcf
 
 ## Languages and Tools:
 
@@ -41,11 +48,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
-
-## Links
-https://keighleymcfarland.me/
-
-https://medium.com/@keighleymcf
 
 <!--
 **keighleymcf/keighleymcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
