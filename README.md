@@ -13,9 +13,10 @@
 🪦💾 My public Github profile is kind of a graveyard of old learning projects and online courses... But I generally try to keep it like the pretty part of the graveyard, you know with 💐 on the graves, someone sweeping away the 🍂, lighting a 🕯 now and then...
 
 🏋🏼‍♀️ Most of my current work is proprietary so please reach out to me with specific questions or for current work samples!
-
 <br/>
+
 ## Links
+
 My website: https://keighleymcfarland.me/
 
 My tech articles on Medium: https://medium.com/@keighleymcf
