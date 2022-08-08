@@ -2,7 +2,7 @@
 
 ### 👩🏻‍💻 Full-Stack Web Developer (she/her) building on a previous life in project management, communications, and research
 
-🔧 I specialize in React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST API development, but I am always learning new skills and stacks 🧠
+🔧 I specialize in React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST and GraphQL API development, but I am always learning new skills and stacks 🧠
 
 💪🏾 Mentoring the next generation of power women* with WoMentor.
 
