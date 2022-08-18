@@ -4,7 +4,7 @@
 
 🔧 I specialize in React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST and GraphQL API development, but I am always learning new skills and stacks 🧠
 
-💪🏾 Recognized as a Role Model empowering women+ and girls in STEM by the Let's Empower Austria initiative of the Austrian Federal Chancellory
+💪🏾 Recognized as a Role Model empowering women+ and girls in STEM by the `Let's Empower Austria` initiative of the Austrian Federal Chancellory
 
 🌍 Currently based in Austria
 
