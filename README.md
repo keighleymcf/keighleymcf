@@ -4,13 +4,13 @@
 
 🔧 I specialize in React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST and GraphQL API development, but I am always learning new skills and stacks 🧠
 
-💪🏾 Mentoring the next generation of power women* with WoMentor.
+💪🏾 Recognized as a Role Model empowering women+ and girls in STEM by the Let's Empower Austria initiative of the Austrian Federal Chancellory
 
 🌍 Currently based in Austria
 
 🎨 Interested in top-notch UX and UI
 
-🪦💾 My public Github profile is kind of a graveyard of old learning projects and online courses... But I generally try to keep it like the pretty part of the graveyard, you know with 💐 on the graves, someone sweeping away the 🍂, lighting a 🕯 now and then...
+🪦💾 My public Github profile is kind of a graveyard of old learning projects and online courses... But I generally try to keep it like the pretty part of the graveyard, you know with 💐 on the graves, someone sweeping away the 🍂, lighting a 🕯 now and then
 
 🏋🏼‍♀️ Most of my current work is proprietary so please reach out to me with specific questions or for current work samples!
 <br/>
