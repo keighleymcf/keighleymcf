@@ -1,12 +1,10 @@
 # Oh hi 👋 I'm Keighley
 
-### 👩🏻‍💻 Full-Stack Web Developer (she/her) building on a previous life in project management, communications, and research
+### 👩🏻‍💻 Senior AI & Web Developer (she/her) with a passion for leadership in tech
 
-🔧 I specialize in React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST and GraphQL API development, but I am always learning new skills and stacks 🧠
+🔧 I specialize in visual generative AI, LLM-based web applications, React, Typescript, Javascript, Node.js, GraphQL, testing with Jest and Cypress, and REST and GraphQL API development, but I am always learning new skills and stacks 🧠
 
 💪🏾 Recognized as a Role Model empowering women+ and girls in STEM by the `Let's Empower Austria` initiative of the Austrian Federal Chancellory
-
-🌍 Currently based in Austria
 
 🎨 Interested in top-notch UX and UI
 
@@ -15,11 +13,9 @@
 🏋🏼‍♀️ Most of my current work is proprietary so please reach out to me with specific questions or for current work samples!
 <br/>
 
-## Links
+## My website
 
-My website: https://keighleymcfarland.me/
-
-My tech articles on Medium: https://medium.com/@keighleymcf
+https://keighleymcfarland.me/
 
 ## Languages and Tools:
 
@@ -31,7 +27,6 @@ My tech articles on Medium: https://medium.com/@keighleymcf
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Cypress" width="26px" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg" />
-<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Storybook" width="26px" src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Zeplin" width="26px" src="https://cdn.worldvectorlogo.com/logos/zeplin.svg" />
