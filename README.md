@@ -1,4 +1,4 @@
-# Senior Applied AI Engineer (she/her) & Entrepreneur
+# Senior Applied AI Engineer & Entrepreneur
 
 I specialize in visual generative AI, LLM-based web applications, and AI-first Innovation in SDLC & Product.
 
